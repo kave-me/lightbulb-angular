@@ -1,0 +1,16 @@
+{
+  "trailingComma": "es5",
+  "arrowParens": "always",
+  "bracketSpacing": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "overrides": [
+    {
+      "files": "*.html",
+      "options": {
+        "singleQuote": false
+      }
+    }
+  ]
+}
